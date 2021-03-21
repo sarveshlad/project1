@@ -1,0 +1,64 @@
+{
+  "loanRecord": [
+    {
+      "id": 1,
+      "loan_id": "a1",
+      "loan_amount": 20000,
+      "loan_date": "10-02-2000"
+    },
+    {
+      "id": 2,
+      "loan_id": "a2",
+      "loan_amount": 25000,
+      "loan_date": "20-04-2001"
+    },
+    {
+      "id": 3,
+      "loan_id": "a3",
+      "loan_amount": 30000,
+      "loan_date": "15-06-2002"
+    },
+    {
+      "id": 4,
+      "loan_id": "a4",
+      "loan_amount": 40000,
+      "loan_date": "05-08-2003"
+    },
+    {
+      "id": 5,
+      "loan_id": "a5",
+      "loan_amount": 45000,
+      "loan_date": "01-09-2004"
+    },
+    {
+      "id": 6
+    },
+    {
+      "loan_id": "a7",
+      "loan_amount": "90000",
+      "loan_date": "2021-03-01",
+      "id": 7
+    },
+    {
+      "id": 8
+    },
+    {
+      "loan_id": "a9",
+      "loan_amount": "21000",
+      "loan_date": "2021-03-02",
+      "id": 9
+    },
+    {
+      "loan_id": "a9",
+      "loan_amount": "21000",
+      "loan_date": "2021-03-02",
+      "id": 10
+    },
+    {
+      "loan_id": "a13",
+      "loan_amount": "23000",
+      "loan_date": "1997-03-03",
+      "id": 11
+    }
+  ]
+}

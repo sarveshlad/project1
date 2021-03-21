@@ -1,0 +1,11 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "taskadd.js",
+  "scripts": {
+    "loanRecord": "json-server --watch db.json"
+  },
+  "author": "",
+  "license": "ISC"
+}
